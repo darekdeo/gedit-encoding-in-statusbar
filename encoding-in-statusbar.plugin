@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=encoding-in-statusbar
+IAge=3
+Name=Encoding in statusbar
+Name[pl]=Kodowanie w pasku stanu
+Description=Display document encoding in statusbar
+Description[pl]=Wyświetla kodowanie dokumentu w pasku stanu
+Authors=Tibor Bősze <tibor.boesze@gmail.com>;Dariusz Deoniziak<darekdeoniziak@gmail.com>
+Copyright=Copyright © 2012 Tibor Bősze <tibor.boesze@gmail.com>
+Website=http://lithium.homenet.org/~shanq/bitsnbytes/encoding-in-statusbar.html
